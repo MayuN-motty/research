@@ -1,2 +1,2 @@
 # research
-I am using the dataset of UCI Machine Learning Repository
+I am using the dataset of UCI Machine Learning Repository.
