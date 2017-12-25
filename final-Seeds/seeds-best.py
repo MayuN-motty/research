@@ -46,7 +46,6 @@ print(len(data_test))
 
 ## データを学習 ##
 #mod = svm.SVC()
-# SVMは処理時間がかかるし、ランダムフォレストで高い識別率が出ているので、今回のデータはランダムフォレストを採用！
 mod = RandomForestClassifier()
 
 ## グリッドサーチ（ハイパーパラメータ探索）##
